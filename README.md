@@ -1,13 +1,5 @@
-Class: SC08
-Grp: 8C
-Team members:
-    Ong Kang Jun
-    Yang Si Jun
-    Gupta Nandini
-    Gran Lim
-    Brandon Ng Joon Hoe
-
 # Note
+This game mainly uses turtle library to function as well as tkinter for the GUI
 Only Macbook will be able to run subprocess(sounds played in the game)
 Windows will have to switch to winsound
 To test basic functionality, comment out all subprocess/thread lines.
